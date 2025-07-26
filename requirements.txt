@@ -1,12 +1,12 @@
 # File: requirements.txt
 # Posiziona questo file nella root del tuo repository GitHub
 
-streamlit>=1.28.0
-pandas>=1.5.0
-numpy>=1.24.0
-yfinance>=0.2.18
-fredapi>=0.5.0
-plotly>=5.15.0
+streamlit
+pandas
+numpy
+yfinance
+fredapi
+plotly
 warnings
 
 # Note:
