@@ -1,0 +1,15 @@
+# File: requirements.txt
+# Posiziona questo file nella root del tuo repository GitHub
+
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+yfinance>=0.2.18
+fredapi>=0.5.0
+plotly>=5.15.0
+warnings
+
+# Note:
+# - warnings è built-in Python, non serve installarlo
+# - datetime e typing sono built-in, non servono
+# - Le versioni >= assicurano compatibilità futura
