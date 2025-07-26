@@ -7,7 +7,6 @@ numpy
 yfinance
 fredapi
 plotly
-warnings
 
 # Note:
 # - warnings è built-in Python, non serve installarlo
