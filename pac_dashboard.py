@@ -887,8 +887,8 @@ def get_current_data(collector: DataCollector, analyzer: ScenarioAnalyzer, lookb
     return indicators, scenario_probabilities, recommended_allocation
 
 def main():
-    st.title("🎯 PAC Dynamic Rebalancing Dashboard")
-    st.markdown("---")
+    #st.title("🎯 PAC Dynamic Rebalancing Dashboard")
+    #st.markdown("---")
     
     with st.sidebar:
         st.header("⚙️ Configurazione")
