@@ -477,7 +477,7 @@ def main():
             st.metric("DXY", f"{dxy_data['current']:.1f}", f"{level_color} {dxy_data['level']}", delta_color="off")
 
         # Tendina con soglie e significati
-        with st.expander("📋 Soglie e Significati Indicatori"):
+        with st.expander("📋 Soglie"):
             st.markdown("""
             **🔥 VIX (Volatility Index)**
             - 🟢 **BASSO** (<15): Mercati calmi, bassa volatilità attesa
